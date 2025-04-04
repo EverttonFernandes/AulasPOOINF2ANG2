@@ -1,4 +1,4 @@
-package AulaPraticaVisibilidadeMetodosGettersESetters;
+package AulaPraticaVisibilidadeMetodosGettersESetters.Exemplo;
 
 public class Main {
     public static void main(String[] args) {

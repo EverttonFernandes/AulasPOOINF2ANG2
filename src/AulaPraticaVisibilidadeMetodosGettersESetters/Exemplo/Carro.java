@@ -1,4 +1,4 @@
-package AulaPraticaVisibilidadeMetodosGettersESetters;
+package AulaPraticaVisibilidadeMetodosGettersESetters.Exemplo;
 
 public class Carro {
     // Usamos os atributos como private para dizer que eles agora são privados
