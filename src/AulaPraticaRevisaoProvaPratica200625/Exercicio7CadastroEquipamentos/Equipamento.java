@@ -1,4 +1,4 @@
-package AulaPraticaRevisaoProvaPratica200625;
+package AulaPraticaRevisaoProvaPratica200625.Exercicio7CadastroEquipamentos;
 
 public class Equipamento {
     private String nome;

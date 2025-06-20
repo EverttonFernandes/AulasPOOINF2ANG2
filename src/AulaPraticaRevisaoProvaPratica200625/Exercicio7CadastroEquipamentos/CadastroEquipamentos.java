@@ -1,4 +1,4 @@
-package AulaPraticaRevisaoProvaPratica200625;
+package AulaPraticaRevisaoProvaPratica200625.Exercicio7CadastroEquipamentos;
 
 import java.util.ArrayList;
 import java.util.List;

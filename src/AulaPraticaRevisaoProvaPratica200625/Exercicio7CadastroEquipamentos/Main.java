@@ -1,4 +1,4 @@
-package AulaPraticaRevisaoProvaPratica200625;
+package AulaPraticaRevisaoProvaPratica200625.Exercicio7CadastroEquipamentos;
 
 public class Main {
     public static void main(String[] args) {
